@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a current student at the Northern Alberta Institute of Technology.
+I love web development, and I have experience with building responsive and user-friendly web applications. 
+I'm excited to learn and collaborate on new projects.
+
 
 <!--
 **johnjovero98/johnjovero98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
