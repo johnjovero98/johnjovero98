@@ -3,7 +3,7 @@ I'm a current student at the Northern Alberta Institute of Technology.
 I love web development and have experience with building responsive and user-friendly web applications. 
 I'm excited to learn, enhance my skills, and collaborate on new projects.
 
-## Current Techstack
+## Techstack
 ![](img/html.svg)
 ![](img/css.svg)
 ![](img/javascript.svg)
