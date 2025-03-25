@@ -1,6 +1,7 @@
 # It's me, Hi! 👋
-I'm a current student at the Northern Alberta Institute of Technology.
-I love web development and have experience with building responsive and user-friendly web applications. 
+Web Developer and UX/UI designer...
+have experience with building responsive and user-friendly web applications. 
+
 I'm excited to learn, enhance my skills, and collaborate on new projects.
 
 ## Techstack
